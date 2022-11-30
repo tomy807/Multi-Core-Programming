@@ -1,5 +1,5 @@
 set(list 
-        Barrier Barrier_Step Trapezodial_Critical_Locking Producer_Consumer Atomic
+Dynamic_scheduling
 
     )
 
