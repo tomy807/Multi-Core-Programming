@@ -1,5 +1,5 @@
 set(list 
-Dynamic_scheduling Static_scheduling Trapezodial_reduction
+Dynamic_scheduling Static_scheduling Trapezodial_reduction Guided_scheduling
 
     )
 

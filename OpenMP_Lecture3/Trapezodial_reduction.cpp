@@ -7,8 +7,7 @@
 #define NUM_THREADS 4
 #define f(_x) (_x*_x)
 
-int main_trapezodial_reduction()
-//int main()
+int main()
 {
 	DS_timer timer(5);
 	timer.initTimers();
