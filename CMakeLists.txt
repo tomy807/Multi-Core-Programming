@@ -1,0 +1,7 @@
+project(MultiCoreProgramming)
+cmake_minimum_required(VERSION 3.7)
+find_package(OpenMP)
+add_subdirectory(DSTimer)
+add_subdirectory(OpenMP_Lecture1)
+add_subdirectory(OpenMP_Lecture2)
+add_subdirectory(OpenMP_Trapezoidal)
