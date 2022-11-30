@@ -3,5 +3,5 @@
 - OpenMP
 - Cuda
 
-### Course: https://www.youtube.com/@hpclab.koreatech4592
+### Video: https://www.youtube.com/@hpclab.koreatech4592
 ### Code: https://sites.google.com/view/hpclab/courses/multicore-programming
