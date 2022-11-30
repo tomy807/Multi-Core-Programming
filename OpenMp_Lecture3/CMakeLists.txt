@@ -1,5 +1,5 @@
 set(list 
-Dynamic_scheduling
+Dynamic_scheduling Static_scheduling
 
     )
 
