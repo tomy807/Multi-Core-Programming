@@ -8,7 +8,7 @@
 #include <string.h>
 
 // The size of the vector
-#define NUM_DATA 10240
+#define NUM_DATA 1024
 
 // Simple vector sum kernel (Max vector size : 1024)
 __global__ void vecAdd(int *_a, int *_b, int *_c) {
