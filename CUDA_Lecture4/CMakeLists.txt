@@ -61,7 +61,7 @@ else()
         )
 endif()
 include_directories(
-    ${CUDA_INCLUDE_DIRS}
+    ${CUDA_INCLUDE_DIRS} /usr/local/cuda-11.2/samples/common/inc
 )
 
 

@@ -134,7 +134,7 @@ __global__ void matMul_kernel_shared_C(float* _A, float* _B, float* _C)
 }
 #endif
 
-void main(void)
+int main()
 {
 	timer = NULL;	setTimer();
 
